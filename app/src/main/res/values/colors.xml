@@ -1,0 +1,10 @@
+
+    <resources>
+        <color name="WHITE">#FFFFFF</color>
+        <color name="NORMAL">#55AA55</color>
+        <color name="WARNING">#FAFA00</color>
+        <color name="WARNING_ORANGE">#E8AF18</color>
+        <color name="ALARM">#FA0000</color>
+        <color name="TEXT">#FAFAFA</color>
+        <color name="DISABLED">#AAAAAA</color>
+    </resources>

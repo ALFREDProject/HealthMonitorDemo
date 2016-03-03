@@ -5,4 +5,28 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="title">
+        <item name="android:textColor">@color/TEXT</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="value">
+        <item name="android:textColor">@color/TEXT</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="date">
+        <item name="android:textColor">@color/TEXT</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
 </resources>

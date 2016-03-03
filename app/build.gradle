@@ -9,7 +9,7 @@ android {
         minSdkVersion 18
         targetSdkVersion 22
         versionCode 1
-        versionName "1.0"
+        versionName "1.14"
     }
     buildTypes {
         release {
@@ -22,4 +22,6 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:22.2.1'
+    compile(name:'hmc-debug', ext:'aar')
+    compile(name:'saf-debug', ext:'aar')
 }
